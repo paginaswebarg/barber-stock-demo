@@ -1,0 +1,20 @@
+BARBER STOCK - PROPUESTA COMERCIAL NO OFICIAL
+
+PUBLICAR GRATIS EN GITHUB PAGES
+1) Crear un repositorio NUEVO y publico en GitHub, por ejemplo barber-stock-demo.
+2) Ir a Add file > Upload files y subir TODOS los archivos y la carpeta images de esta carpeta (no el ZIP sin extraer).
+3) Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4) Esperar que Actions muestre despliegue exitoso. URL: https://TUUSUARIO.github.io/barber-stock-demo/
+
+GESTIONAR CATALOGO
+- Abrir admin.html en la web publicada. Agregar/editar productos y pulsar Descargar productos.js.
+- El cambio queda SOLO EN TU NAVEGADOR hasta que reemplaces productos.js en GitHub.
+- Fotos nuevas: subir primero la foto a images/ en GitHub y colocar en el gestor la ruta images/nombre.jpg.
+- Para reemplazar productos.js en GitHub se puede abrir el archivo, pulsar Edit, pegar su contenido descargado y Commit; o subir el archivo actualizado al repositorio.
+- El panel admin.html es un EDITOR DE DEMOSTRACION, NO tiene contraseña ni modifica el sitio automáticamente. La versión final puede tener acceso privado y guardado automático con un servicio de base de datos/autenticacion.
+
+IMPORTANTE
+- No es una tienda oficial ni tiene pasarela de pagos. Los pedidos son consultas por WhatsApp.
+- Revisar propiedad/autorizacion de fotos, productos, stock y precios antes de poner el sitio a nombre del cliente.
+- Horarios y dirección extraídos de las capturas recibidas; verificar con el dueño.
+- Los precios de algunas fotos se usan solo como referencia histórica de muestra.
